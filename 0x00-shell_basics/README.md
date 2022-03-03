@@ -1,2 +1,2 @@
 #!/bin/bash
-my readm file
+cp copy files mv move files mkdir cerate directory
