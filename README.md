@@ -1,2 +1,2 @@
 #!/bin/bash
-my readm file
+I start shell scripting!
