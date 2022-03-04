@@ -1,2 +1,2 @@
-#! /bin/bash
-echo "cp copy files mv move files mkdir cerate directory"
+#!/bin/bash
+echo -e "cp copy files mv move files mkdir cerate directory \n"
