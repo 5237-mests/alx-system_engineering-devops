@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e $(sudo chown betty 3-new_owner)"\n"
+sudo chown betty 3-new_owner
