@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e $LS"\n"
+echo -e $ls -a"\n"
