@@ -1,2 +1,2 @@
 #! /bin/bash
-echo "I start shell scripting!"
+echo -e "I start shell scripting!\n"
