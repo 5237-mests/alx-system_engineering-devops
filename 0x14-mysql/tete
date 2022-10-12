@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+echo hello!
+echo "$1"
+tar -czvf "mesfinzip.tar.gz" testrar.py
+
